@@ -1,11 +1,8 @@
 dataset_paths = {
-	'celeba_train': '',
-	'celeba_test': '',
-	'celeba_train_sketch': '',
-	'celeba_test_sketch': '',
-	'celeba_train_segmentation': '',
-	'celeba_test_segmentation': '',
-	'ffhq': '',
+	'train_source': 'datasets/f2c/train_source',
+	'train_target': 'datasets/f2c/train_target',
+	'test_source': 'datasets/f2c/test_source',
+	'test_target': 'datasets/f2c/test_target',
 }
 
 model_paths = {
